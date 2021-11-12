@@ -1,0 +1,16 @@
+G:\OOP\PizzaStore\PizzaStore\bin\Debug\net5.0\PizzaStore.exe
+G:\OOP\PizzaStore\PizzaStore\bin\Debug\net5.0\PizzaStore.deps.json
+G:\OOP\PizzaStore\PizzaStore\bin\Debug\net5.0\PizzaStore.runtimeconfig.json
+G:\OOP\PizzaStore\PizzaStore\bin\Debug\net5.0\PizzaStore.runtimeconfig.dev.json
+G:\OOP\PizzaStore\PizzaStore\bin\Debug\net5.0\PizzaStore.dll
+G:\OOP\PizzaStore\PizzaStore\bin\Debug\net5.0\ref\PizzaStore.dll
+G:\OOP\PizzaStore\PizzaStore\bin\Debug\net5.0\PizzaStore.pdb
+G:\OOP\PizzaStore\PizzaStore\obj\Debug\net5.0\PizzaStore.GeneratedMSBuildEditorConfig.editorconfig
+G:\OOP\PizzaStore\PizzaStore\obj\Debug\net5.0\PizzaStore.AssemblyInfoInputs.cache
+G:\OOP\PizzaStore\PizzaStore\obj\Debug\net5.0\PizzaStore.AssemblyInfo.cs
+G:\OOP\PizzaStore\PizzaStore\obj\Debug\net5.0\PizzaStore.csproj.CoreCompileInputs.cache
+G:\OOP\PizzaStore\PizzaStore\obj\Debug\net5.0\PizzaStore.dll
+G:\OOP\PizzaStore\PizzaStore\obj\Debug\net5.0\ref\PizzaStore.dll
+G:\OOP\PizzaStore\PizzaStore\obj\Debug\net5.0\PizzaStore.pdb
+G:\OOP\PizzaStore\PizzaStore\obj\Debug\net5.0\PizzaStore.genruntimeconfig.cache
+G:\OOP\PizzaStore\PizzaStore\obj\Debug\net5.0\PizzaStore.csprojAssemblyReference.cache
